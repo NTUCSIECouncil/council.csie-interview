@@ -705,5 +705,18 @@
         "label": "2024"
       }
     ]
+  },
+  {
+    "category": "BY_Chen",
+    "chin_name": "陳炳宇",
+    "eng_name": "Bing-Yu Chen",
+    "lab": "",
+    "tags": [],
+    "links": [
+      {
+        "url": "2024-BY_Chen.md",
+        "label": "2024"
+      }
+    ]
   }
 ]
